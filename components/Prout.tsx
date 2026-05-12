@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 
-export default function Hero(): React.ReactElement {
+export default function Prout(): React.ReactElement {
   const [email, setEmail] = useState<string>("");
 
   const handleEmailChange = (e: React.ChangeEvent<HTMLInputElement>): void => {

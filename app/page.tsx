@@ -1,5 +1,5 @@
 import Header from "@/components/Header";
-import Hero from "@/components/Hero";
+import Prout from "@/components/Prout";
 import Features from "@/components/Features";
 import HowItWorks from "@/components/HowItWorks";
 import JokePreview from "@/components/JokePreview";
@@ -13,7 +13,7 @@ export default function Home(): React.ReactElement {
   return (
     <main className="min-h-screen bg-gradient-to-b from-slate-50 to-white">
       <Header />
-      <Hero />
+      <Prout />
       <Features />
       <HowItWorks />
       <JokePreview />
