@@ -29,7 +29,7 @@ export default function Hero(): React.ReactElement {
 
           {/* Main Headline */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-slate-900 mb-6 leading-tight">
-            <span className="gradient-text">Clara est une menteuse</span>
+            <span className="gradient-text">thomas</span>
           </h1>
 
           {/* Subheadline */}
