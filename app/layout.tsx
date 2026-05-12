@@ -15,7 +15,7 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: "DevJokeBox - The ultimate dev joke subscription for standup success!",
+  title: "ABC",
   description:
     "Une plateforme d'abonnement aux meilleures blagues de dev pour briser la glace en standup. $5/mois avec 14 jours d'essai gratuit.",
   keywords: [
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "DevJokeBox" }],
   openGraph: {
-    title: "DevJokeBox - The ultimate dev joke subscription!",
+    title: "ABC",
     description:
       "Bring laughter to your standup meetings with curated developer jokes delivered weekly.",
     type: "website",
