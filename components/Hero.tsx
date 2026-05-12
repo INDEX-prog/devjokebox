@@ -29,23 +29,7 @@ export default function Hero(): React.ReactElement {
 
           {/* Main Headline */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-slate-900 mb-6 leading-tight">
-            Brisez la glace en{" "}
-            <span className="gradient-text">standup</span> avec des{" "}
-            <span className="relative inline-block">
-              <span className="gradient-text">blagues de dev</span>
-              <svg
-                className="absolute -bottom-2 left-0 w-full h-3 text-accent opacity-50"
-                viewBox="0 0 200 12"
-                fill="none"
-              >
-                <path
-                  d="M2 10C50 2 150 2 198 10"
-                  stroke="currentColor"
-                  strokeWidth="4"
-                  strokeLinecap="round"
-                />
-              </svg>
-            </span>
+            <span className="gradient-text">Clara est une menteuse</span>
           </h1>
 
           {/* Subheadline */}
