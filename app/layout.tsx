@@ -15,7 +15,7 @@ const firaCode = Fira_Code({
 });
 
 export const metadata: Metadata = {
-  title: "DevJokeBox - The ultimate dev joke subscription for standup success!",
+  title: "le pape fait des crotes",
   description:
     "Une plateforme d'abonnement aux meilleures blagues de dev pour briser la glace en standup. $5/mois avec 14 jours d'essai gratuit.",
   keywords: [
